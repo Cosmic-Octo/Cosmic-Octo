@@ -5,7 +5,7 @@ I'm a graduate from University of Portsmouth, with a bachelor's degree in cybers
 
 ## Objective
 
-Although I have academic expereince with cybersecurity concepts, I want to expand my practical knowledge. This portfolio is not only a record of my projects, but a reference for myself of knowledge gained through completing projects.
+Although I have academic expereince with cybersecurity concepts, I want to expand my practical knowledge. This portfolio is not only a record of my projects, but a reference for myself, of knowledge gained through completing projects.
 
 ## Projects
 - 
