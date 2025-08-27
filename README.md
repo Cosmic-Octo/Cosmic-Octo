@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm Taisha.
+<a href="https://www.linkedin.com/in/taisha-clare-457ba41a1/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+I'm a graduate from University of Portsmouth, with a bachelor's degree in cybersecurity and digital forensics. I enjoy problem solving and learning and applying new skills.
+
+## Objective
+
+Although I have academic expereince with cybersecurity concepts, I want to expand my practical knowledge. This portfolio is not only a record of my projects, but a reference for myself of knowledge gained through completing projects.
+
+## Projects
+- 
 
 <!--
 **Cosmic-Octo/Cosmic-Octo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
