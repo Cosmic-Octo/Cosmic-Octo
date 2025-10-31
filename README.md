@@ -3,7 +3,7 @@
 
  I'm a graduate from University of Portsmouth, with a bachelor's degree in cybersecurity and digital forensics. I enjoy problem solving and learning and applying new skills.
 
- Although I have academic expereince with cybersecurity concepts, I want to expand my practical knowledge. This portfolio is not only a record of my projects, but a reference for myself, of knowledge gained through completing projects.
+ Although I have academic expereince with cybersecurity concepts, I want to expand my practical abilities. This portfolio is not only a record of my projects, but a reference for myself, of knowledge gained through completing projects.
 
 ## Projects
 - 
